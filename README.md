@@ -1,1 +1,1 @@
-# CSS-Coffee-Shop-Project-Session-work
+# CSS-Coffee-Shop-Project-setup
